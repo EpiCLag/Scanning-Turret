@@ -1,0 +1,23 @@
+This a school projet.
+
+The goal is to produce a 2D depth image using greyscale value for the distance
+
+It will communicate with an arduino through serial.
+The arduino uses two servo and an ultrasonic sensor to scan in 3D.
+
+If the main fail to run due to permission on the serial port,
+run the "command.sh" in your terminal
+
+This is mode using linux serial device
+
+Calibration:
+Start: 10 10
+MAX  160  150
+
+
+
+
+Documentation:
+
+  -PGM file format:
+	http://netpbm.sourceforge.net/doc/pgm.html
