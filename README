@@ -6,7 +6,7 @@ It will communicate with an arduino through serial.
 The arduino uses two servo and an ultrasonic sensor to scan in 3D.
 
 If the main fail to run due to permission on the serial port,
-run the "command.sh" in your terminal
+run the "allow_acces_to_tty.sh"  in your terminal
 
 This is mode using linux serial device
 
